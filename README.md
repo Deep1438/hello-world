@@ -3,4 +3,4 @@ Welcome to  Github world
 
 
 
-Hi this is new learning of github, a subversioning platform.
+Hi this is new learning of github, a subversioning control platform.
